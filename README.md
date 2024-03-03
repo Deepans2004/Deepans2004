@@ -1,4 +1,4 @@
-[![MasterHead]([https://thumbs.dreamstime.com/b/vector-line-web-concept-programming-linear-banner-coding-118175196.jpg](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif))](https://deepans2004.io)
+[![MasterHead](https://i.imgur.com/mtVyPBC.gif)](https://deepans2004.io)
 
 <h1 align="center">Hi 👋, I'm DEEPANSHU TIWARI</h1>
 <h3 align="center">A passionate Learner from India</h3>
