@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepans2004&label=Profile%20views&color=0e75b6&style=flat" alt="deepans2004" /> </p>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **DSA**,**JavaScript** && **Java** 
 
 - 📫 How to reach me **tiwari27deepanshu38kt@gmail.com**
 
