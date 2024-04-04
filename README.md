@@ -1,4 +1,4 @@
-[![MasterHead]([https://i.imgur.com/mtVyPBC.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FElysian01&psig=AOvVaw1AZRFjF7KIKH9Tkko6F0LS&ust=1712331491430000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKi_oYfyqIUDFQAAAAAdAAAAABAE))](https://deepans2004.io)
+[![MasterHead](https://i.imgur.com/mtVyPBC.gif)](https://deepans2004.io)
 
 <h1 align="center">Hi 👋, I'm DEEPANSHU TIWARI</h1>
 <h3 align="center">A passionate Learner from India</h3>
