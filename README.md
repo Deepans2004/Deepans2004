@@ -1,4 +1,4 @@
-[![MasterHead]([https://media4.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=6c09b952b8843ezp0sim70d90zkxz44u8y1fo29sj6sbippi&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif))](https://deepans2004.io)
+[![MasterHead](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/41f42ffb8825a7c57ff4810593e5ba5d-1677459265/Light%20bulb/do-an-animated-pixel-art-banner-for-youtube-twitch-a-videogame-etc.gif)](https://deepans2004.io)
 
 <h1 align="center">Hi 👋, I'm DEEPANSHU TIWARI</h1>
 <h3 align="center">A passionate Learner from India</h3>
