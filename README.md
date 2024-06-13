@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm DEEPANSHU TIWARI</h1>
 <h3 align="center">A passionate Learner from India</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif">
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 <p align="left"> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" alt="deepans2004" /> </p>
 
