@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **SQL,DSA**
 
-- 👯 I’m looking to collaborate on **JAVA**
+- 👯 I’m looking to collaborate on **JAVA Development**
 
 - 🤝 I’m looking for help with **SQL**
 
 - 📫 How to reach me **tiwari27deepanshu38kt@gmail.com**
 
-- ⚡ Fun fact **I**
+- ⚡ Fun fact **I know your jealous**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
