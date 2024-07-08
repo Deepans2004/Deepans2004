@@ -1,9 +1,8 @@
 [![MasterHead](https://camo.githubusercontent.com/127298714375cc05adb5cba46747c271a69d0a7208954d5db93650ba2f5b34ce/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f37393733313536383039373539392e356235306263613437373733352e6a7067)](https://deepans2004.io)
 
+<p align="left"> <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"> </p>
 # 💫 About Me:
 - 🔭 I’m currently working on Data Structure<br><br>- 🌱 I’m currently learning Database,Java Development and DSA<br><br>- 👯 I’m looking to collaborate on JAVA Development<br><br>- 🤝 I’m looking for help with Database<br><br>- 📫 How to reach me tiwari27deepanshu38kt@gmail.com<br><br>- ⚡ Fun fact I know your jealous
-
-<p align="left"> <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"> </p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Deepanshu Tiwari) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ideepanshutiwari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepanshu tiwari) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@tiwari27deepanshu38kt@gmail.com) 
