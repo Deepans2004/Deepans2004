@@ -68,7 +68,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Deepans2004/Deepans2004/output/snake.svg" alt="Snake animation" />
 
 ###
 
