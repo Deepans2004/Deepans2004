@@ -12,7 +12,7 @@
 
 ###
 
-<h5 align="left">🎓 Computer Science Engineering student from India<br>🔭 Focused on Data Structures & Algorithms, Java, and Spring Boot<br>💡 Passionate about building scalable and problem-solving driven applications<br>💻 Interested in backend development and strong core CS fundamentals<br>📷i Love creatig cienema.<br>📧 Reach me at: tiwari27deepanshu38kt@gmail.com</h5>
+<h5 align="left">🎓 Computer Science Engineering  student from India<br>🔭 Focused on Data Structures & Algorithms, Java, and Spring Boot<br>💡 Passionate about building scalable and problem-solving driven applications<br>💻 Interested in backend development and strong core CS fundamentals<br>📷i Love creatig cienema.<br>📧 Reach me at: tiwari27deepanshu38kt@gmail.com</h5>
 
 ###
 
@@ -84,10 +84,8 @@
 
 ###
 
-<br clear="both">
-
-<div align="left">
-  <img src="https://count.getloli.com/@:Deepans2004?theme=minecraft&padding=5&scale=1&align=top&pixelated=1&darkmode=auto"  />
+<div align="right">
+  <img src="https://count.getloli.com/@:Deepans2004?theme=minecraft&padding=5&offset=0&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
