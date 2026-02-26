@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hey 👋What's Up?</h1>
+<h2 align="center">𝘏𝘦𝘺 👋𝘞𝘩𝘢𝘵'𝘴 𝘜𝘱 𝘐'𝘮 𝘋𝘦𝘦𝘱𝘢𝘯𝘴𝘩𝘶 𝘛𝘪𝘸𝘢𝘳𝘪</h2>
 
 ###
 
@@ -12,35 +12,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="60" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="60" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css/1572B6" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/django/092E20" height="60" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="60" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="60" alt="netlify logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-</div>
+<h6 align="left">🎓 Computer Science Engineering student from India<br>🔭 Focused on Data Structures & Algorithms, Java, and Spring Boot<br>💡 Passionate about building scalable and problem-solving driven applications<br>💻 Interested in backend development and strong core CS fundamentals<br>📷i Love creatig cienema.<br>📧 Reach me at: tiwari27deepanshu38kt@gmail.com</h6>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="www.linkedin.com/in/deepanshutiwari22" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
   </a>
@@ -53,18 +29,70 @@
   <a href="https://www.youtube.com/@deepanshutiwari8226" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="37" height="25" alt="youtube logo"  />
   </a>
-  <a href="mailto:deepanshutiwari2378@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
-  </a>
 </div>
 
 ###
 
 <div align="center">
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="css logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/django/092E20" height="40" alt="django logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo"  />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Deepans2004&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepans2004&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deepans2004/Deepans2004/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deepans2004/Deepans2004/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Deepans2004/Deepans2004/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="left">
   <a href="https://open.spotify.com/user/31mihmh3gk6xcet5iii4fxn34mye">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mihmh3gk6xcet5iii4fxn34mye&count=5" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mihmh3gk6xcet5iii4fxn34mye&count=2&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://count.getloli.com/@:Deepans2004?theme=minecraft&padding=5&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
+
+###
+
+<p align="center">Thank you for Visiting!!</p>
 
 ###
 
