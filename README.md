@@ -12,7 +12,7 @@
 
 ###
 
-<h6 align="left">🎓 Computer Science Engineering student from India<br>🔭 Focused on Data Structures & Algorithms, Java, and Spring Boot<br>💡 Passionate about building scalable and problem-solving driven applications<br>💻 Interested in backend development and strong core CS fundamentals<br>📷i Love creatig cienema.<br>📧 Reach me at: tiwari27deepanshu38kt@gmail.com</h6>
+<h5 align="left">🎓 Computer Science Engineering student from India<br>🔭 Focused on Data Structures & Algorithms, Java, and Spring Boot<br>💡 Passionate about building scalable and problem-solving driven applications<br>💻 Interested in backend development and strong core CS fundamentals<br>📷i Love creatig cienema.<br>📧 Reach me at: tiwari27deepanshu38kt@gmail.com</h5>
 
 ###
 
