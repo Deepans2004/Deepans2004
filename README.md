@@ -68,14 +68,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deepans2004/Deepans2004/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deepans2004/Deepans2004/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Deepans2004/Deepans2004/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/31mihmh3gk6xcet5iii4fxn34mye">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mihmh3gk6xcet5iii4fxn34mye&count=2&unique=false" alt="Spotify recently played"  />
