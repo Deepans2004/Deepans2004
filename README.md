@@ -4,32 +4,17 @@
 
 ###
 
+<div align="center">
+  <img height="450" src="https://imgs.search.brave.com/SccrcEKbwJlTNjEBGaAP-Bzp7belSzz74TbjlagxuC4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtYW5ncnktbWFu/LWNvZGluZy11NDB4/eXFyMjZxeWV6NzBm/LmdpZg.gif"  />
+</div>
+
+###
+
 <h2 align="center">𝘏𝘦𝘺 👋𝘞𝘩𝘢𝘵'𝘴 𝘜𝘱 𝘐'𝘮 𝘋𝘦𝘦𝘱𝘢𝘯𝘴𝘩𝘶 𝘛𝘪𝘸𝘢𝘳𝘪</h2>
 
 ###
 
-<img align="left" height="200" src="https://imgs.search.brave.com/SccrcEKbwJlTNjEBGaAP-Bzp7belSzz74TbjlagxuC4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtYW5ncnktbWFu/LWNvZGluZy11NDB4/eXFyMjZxeWV6NzBm/LmdpZg.gif"  />
-
-###
-
-<h5 align="left">🎓 Computer Science Engineering  student from India<br>🔭 Focused on Data Structures & Algorithms, Java, and Spring Boot<br>💡 Passionate about building scalable and problem-solving driven applications<br>💻 Interested in backend development and strong core CS fundamentals<br>📷i Love creatig cienema.<br>📧 Reach me at: tiwari27deepanshu38kt@gmail.com</h5>
-
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/deepanshutiwari22" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/ideepanshutiwari?igsh=eDdzMWE4ZHQ4ZHcz&utm_source=qr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/32421055/deepanshu-tiwari" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="37" height="25" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://www.youtube.com/@deepanshutiwari8226" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="37" height="25" alt="youtube logo"  />
-  </a>
-</div>
+<p align="left">🎓 Computer Science Engineering  student from India<br>🔭 Focused on Data Structures & Algorithms, Java, and Spring Boot<br>💡 Passionate about building scalable and problem-solving driven applications<br>💻 Interested in backend development and strong core CS fundamentals<br>📷i Love creatig cienema.<br>📧 Reach me at: tiwari27deepanshu38kt@gmail.com</p>
 
 ###
 
@@ -62,7 +47,24 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Deepans2004&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <a href="www.linkedin.com/in/deepanshutiwari22" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/ideepanshutiwari?igsh=eDdzMWE4ZHQ4ZHcz&utm_source=qr" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/32421055/deepanshu-tiwari" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="37" height="25" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://www.youtube.com/@deepanshutiwari8226" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="37" height="25" alt="youtube logo"  />
+  </a>
+</div>
+
+###
+
+<div align="right">
+  <img src="https://streak-stats.demolab.com?user=Deepans2004&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepans2004&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
@@ -76,16 +78,16 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://open.spotify.com/user/31mihmh3gk6xcet5iii4fxn34mye">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mihmh3gk6xcet5iii4fxn34mye&count=2&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mihmh3gk6xcet5iii4fxn34mye&count=2&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
 ###
 
-<div align="right">
-  <img src="https://count.getloli.com/@:Deepans2004?theme=minecraft&padding=5&offset=0&scale=1&align=top&pixelated=1&darkmode=auto"  />
+<div align="center">
+  <img src="https://count.getloli.com/@:Deepans2004?theme=minecraft&padding=5&offset=0&scale=1&align=center&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
